@@ -4,8 +4,13 @@ The project page: https://sites.google.com/site/huazhufu/home/VidCoSeg
 --------------------------------------------------------------------------------
 Please cite the following publication if you used or was inspired by this code/work:
 
-[1] Huazhu Fu, Dong Xu, Bao Zhang, Stephen Lin, "Object-based Multiple Foreground Video Co-segmentation", in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014, pp. 3166-3173.
-[2] Huazhu Fu, Dong Xu, Bao Zhang, Stephen Lin, Rabab K. Ward, "Object-based Multiple Foreground Video Co-segmentation via Multi-state Selection Graph", IEEE Transactions on Image Processing (TIP), 2015, In press.
+[1] Huazhu Fu, Dong Xu, Bao Zhang, Stephen Lin, 
+"Object-based Multiple Foreground Video Co-segmentation", 
+in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014, pp. 3166-3173.
+
+[2] Huazhu Fu, Dong Xu, Bao Zhang, Stephen Lin, Rabab K. Ward, 
+"Object-based Multiple Foreground Video Co-segmentation via Multi-state Selection Graph", 
+IEEE Transactions on Image Processing (TIP), 2015, In press.
 
 --------------------------------------------------------------------------------
 This code is wrote by MATLAB, and it can run under Windows.
