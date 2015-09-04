@@ -10,7 +10,7 @@ in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014, pp. 
 
 [2] Huazhu Fu, Dong Xu, Bao Zhang, Stephen Lin, Rabab K. Ward, 
 "Object-based Multiple Foreground Video Co-segmentation via Multi-state Selection Graph", 
-IEEE Transactions on Image Processing (TIP), 2015, In press.
+IEEE Transactions on Image Processing (TIP), vol. 24, no. 11, pp. 3415-3424, 2015.
 
 --------------------------------------------------------------------------------
 This code is wrote by MATLAB, and it can run under Windows.
