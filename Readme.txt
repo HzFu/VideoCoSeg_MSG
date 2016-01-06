@@ -1,6 +1,6 @@
 The Matlab code for Object-based Multiple Foreground Video Co-segmentation
 
-The project page: https://sites.google.com/site/huazhufu/home/VidCoSeg
+The project page: http://hzfu.github.io/subpage/video_coseg/video_coseg.html
 --------------------------------------------------------------------------------
 Please cite the following publication if you used or was inspired by this code/work:
 
